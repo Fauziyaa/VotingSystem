@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Voting System</string>
+    <string name="voter_id">Voter Id</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="admin_id">Admin Id</string>
+    <string name="admin">Admin</string>
+    <string name="user">User</string>
+
+    <string-array name="voting_state">
+        <item>Maharashtra</item>
+        <item>Gujarat</item>
+        <item>Rajasthan</item>
+        <item>UP</item>
+        <item>Bihar</item>
+    </string-array>
+
+</resources>
